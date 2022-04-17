@@ -69,4 +69,4 @@ asusdisplay background.png -d
 
 asusdisplay can work with [Tiny Core](http://tinycorelinux.com) however as of July 2011 the libusb provided with TC 3.7.1 doesn't work with dava33display - see http://forum.tinycorelinux.net/index.php?topic=10818.0 for more details and the work around (don't install libusb.tcz and copy the shared library from Ubuntu).
 
-Information about how the C version was created is at http://kieranlevin.com/index.php?option=com_content&view=article&id=54:reverseengdisplay
+Information about how the C version was created is at https://web.archive.org/web/20110912100157/http://kieranlevin.com/index.php?option=com_content&view=article&id=54:reverseengdisplay&catid=35:projects&Itemid=54
