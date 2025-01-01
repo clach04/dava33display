@@ -9,8 +9,8 @@ Previously located at https://bitbucket.org/clach04/dava33display/wiki/Home and 
 NOTE I moved to https://hg.sr.ht/~clach04/coldtears_clock with a different display (edit 2024 which has since died, I'm now looking at some ESP32 based devices).
 
 
-![https://bytebucket.org/clach04/dava33display/wiki/static/pics/pyv1_display_white.png](https://bytebucket.org/clach04/dava33display/wiki/static/pics/pyv1_display_white.png)
-![https://bytebucket.org/clach04/dava33display/wiki/static/pics/pyv2_display_white.png](https://bytebucket.org/clach04/dava33display/wiki/static/pics/pyv2_display_white.png)
+![wiki/static/pics/pyv1_display_white.png](wiki/static/pics/pyv1_display_white.png)
+![wiki/static/pics/pyv1_display_white.png](wiki/static/pics/pyv1_display_white.png)
 
 The Asus DAV Center A33 comes with a small built in front panel LCD display which is used in Microsoft Windows to show volume and other information (for example Media Center Edition play/status information). This is a small user space program to use the display under Linux or Windows.
 
