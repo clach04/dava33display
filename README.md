@@ -2,11 +2,11 @@
 
 User space device driver for the information display built into the Asus DAV center A33. Internal TFT display.
 
->> NOTE main project page is now at https://github.com/kiram9/dava33display (export from code.google.com/p/dava33display)
->> 
->> Wiki in github is not up, see https://bitbucket.org/clach04/dava33display/wiki/Home
->> 
->> Currently using https://bitbucket.org/clach04/coldtears_clock/ with a different display
+(Old) Wiki moved/imported to https://github.com/clach04/dava33display/wiki
+
+Previously located at https://bitbucket.org/clach04/dava33display/wiki/Home and before that code.google.com/p/dava33display
+
+NOTE I moved to https://hg.sr.ht/~clach04/coldtears_clock with a different display (edit 2024 which has since died, I'm now looking at some ESP32 based devices).
 
 
 ![https://bytebucket.org/clach04/dava33display/wiki/static/pics/pyv1_display_white.png](https://bytebucket.org/clach04/dava33display/wiki/static/pics/pyv1_display_white.png)
